@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ziv Sobol Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ziv Sobol</h1>
+        <p>Data Scientist | Machine Learning Enthusiast | Multidisciplinary R&D Expert</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a data scientist with extensive expertise in data analysis, system engineering, and multidisciplinary R&D. My work spans machine learning, deep learning, and advanced algorithm development.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <div class="job">
+            <h3>Data Scientist - BIU</h3>
+            <p><em>Jun 2024 – Present</em></p>
+            <ul>
+                <li>Implemented multilingual long text summarization and semantic searches using advanced multilingual encoders.</li>
+                <li>Developed scraping and preprocessing pipelines, leveraging LLMs for agentic RAG.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Algorithm Developer - Hemico Imaging</h3>
+            <p><em>2023 – Jun 2024</em></p>
+            <ul>
+                <li>Designed self-supervised image reconstruction tools with DL and ghost imaging.</li>
+                <li>Built data pipelines and collaborated with measurement teams for signal analysis.</li>
+            </ul>
+        </div>
+        <!-- Add additional job entries here -->
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <p>Time Series Forecasting, ARIMA, Pandas, NumPy, SciPy, PyTorch, TensorFlow, OpenCV, Scikit-learn, HuggingFace, LangChain, Docker, AWS, and more.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:Zivsobol@gmail.com">Zivsobol@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/ziv-sobol" target="_blank">linkedin.com/in/ziv-sobol</a></p>
+        <p>GitHub: <a href="https://github.com/Ziv2" target="_blank">github.com/Ziv2</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Ziv Sobol. All rights reserved.</p>
+    </footer>
+</body>
+</html>
