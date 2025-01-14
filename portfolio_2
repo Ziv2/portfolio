@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data Scientist | Your Name</title>
+    <meta name="description" content="Data Scientist with a strong academic foundation and diverse professional experience.">
+    
+    <style>
+        body {
+            background-color: #fff;
+            padding: 50px;
+            font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #727272;
+            font-weight: 400;
+        }
+
+        .wrapper {
+            width: 860px;
+            margin: 0 auto;
+        }
+
+        header {
+            width: 270px;
+            float: left;
+            position: fixed;
+            -webkit-font-smoothing: subpixel-antialiased;
+        }
+
+        header img {
+            max-width: 100%;
+            border-radius: 50%;
+        }
+
+        section {
+            width: 500px;
+            float: right;
+            padding-bottom: 50px;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #222;
+            margin: 0 0 20px;
+        }
+
+        p, ul, ol {
+            margin: 0 0 20px;
+        }
+
+        a {
+            color: #267CB9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #069;
+        }
+
+        .downloads {
+            list-style: none;
+            padding: 0;
+        }
+
+        .downloads li {
+            width: 89px;
+            float: left;
+            border-right: 1px solid #e0e0e0;
+            height: 40px;
+        }
+
+        .downloads a {
+            line-height: 1;
+            font-size: 11px;
+            color: #676767;
+            display: block;
+            text-align: center;
+            padding-top: 6px;
+            height: 34px;
+        }
+
+        .downloads a:hover {
+            color: #675C5C;
+        }
+
+        .downloads a strong {
+            font-size: 14px;
+            display: block;
+            color: #222;
+        }
+
+        @media print, screen and (max-width: 960px) {
+            div.wrapper {
+                width: auto;
+                margin: 0;
+            }
+
+            header, section {
+                float: none;
+                position: static;
+                width: auto;
+            }
+
+            header {
+                padding-right: 320px;
+            }
+
+            section {
+                border: 1px solid #e5e5e5;
+                border-width: 1px 0;
+                padding: 20px 0;
+                margin: 0 0 20px;
+            }
+        }
+
+        @media print, screen and (max-width: 720px) {
+            body {
+                word-wrap: break-word;
+            }
+
+            header {
+                padding: 0;
+            }
+
+            .downloads {
+                position: static;
+            }
+        }
+
+        @media print {
+            body {
+                padding: 0.4in;
+                font-size: 12pt;
+                color: #444;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1><a href="#">Your Name</a></h1>
+            <img src="/api/placeholder/270/270" alt="Profile Picture">
+            <p>Data Scientist with [Your Brief Description]</p>
+            
+            <p class="view"><a href="https://github.com/yourusername">View My GitHub Profile</a></p>
+        </header>
+        <section>
+            <h1>Data Scientist</h1>
+
+            <h4>Technical Skills: [Your Skills]</h4>
+
+            <h2>Education</h2>
+            <!-- Add your education details here -->
+
+            <h2>Work Experience</h2>
+            <!-- Add your work experience here -->
+
+            <h2>Projects</h2>
+            <!-- Add your projects here -->
+
+            <h2>Publications</h2>
+            <!-- Add your publications here -->
+        </section>
+        <footer>
+            <p><small>Hosted on GitHub Pages</small></p>
+        </footer>
+    </div>
+</body>
+</html>
